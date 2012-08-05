@@ -1,0 +1,6 @@
+SMS.G= 0.0 -0.1
+SMS.Damping= 0.1
+Video.Width= 640
+Video.Height= 480
+Video.Depth= 32
+App.Font= vera12.fnt

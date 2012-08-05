@@ -1,0 +1,19 @@
+Cuando se distribuya TAM deberá estar contenido en una estructura que sea de la 
+siguiente forma:
+
++ bin
+	- tamClient
+	- tamEditor
+	- tamServer
++ view
+	- dlgInitWindow.glade
+	- gameWindow.glade
+	- feedbackWindow.glade
+	- editor.glade
+- clientInstall.sh
+- serverInstall.sh
+
+--------------------------------------------------------------------------------
+
+Para generar un PostScript con todo el código del TP, se deberá ejecutar el
+script code.sh desde la carpeta tam/src/
